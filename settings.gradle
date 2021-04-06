@@ -1,0 +1,3 @@
+include ':lib_grant'
+include ':app'
+rootProject.name = "lib_grant"
